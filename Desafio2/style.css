@@ -6,7 +6,7 @@
     
     body { 
     background: white;
-    front-family: 'Sorce sans pro',serif;
+    font-family: 'Sorce sans pro',serif;
     }
     header{
     background-color: tomato;
@@ -14,7 +14,7 @@
     } 
     header {padding: 5px;
             border-bottom: 1px solid black;
-    background:rgba $black(0, 0, 0, 0.1);
+    background:rgba black(0, 0, 0, 0.1);
     
     }
     #wrapper  {
@@ -22,14 +22,16 @@
         padding: 32px;
     }
     #wrapper img {
-        border-radius: 200px 200px;
+        border-radius: 400px 400px;
     }
     header div a {
         color:black;
-        font-size:   18spx;
-        line-height: 20px;
-        margin: 0 16px;
+        font-size:   18 px;
+        line-height: 20 px;
+        margin: 0 16 px;
         text-decoration:none;
     
     
     }
+
+  
