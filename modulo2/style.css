@@ -13,7 +13,7 @@ header {
    }  
     header {
         padding: 32px;
-        border-bottom: 1px solid black;
+        border-bottom: 1px solid rgb(0, 0, 0);
         background:rgba $black (0, 0, 0, 0.1 );
     }
 header div {

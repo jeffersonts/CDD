@@ -1,0 +1,35 @@
+*{margin: 0;
+    paddimg: 0;
+    boder:0;
+    
+    }
+    
+    body { 
+    background: white;
+    front-family: 'Sorce sans pro',serif;
+    }
+    header{
+    background-color: tomato;
+    
+    } 
+    header {padding: 5px;
+            border-bottom: 1px solid black;
+    background:rgba $black(0, 0, 0, 0.1);
+    
+    }
+    #wrapper  {
+        text-align: center;
+        padding: 32px;
+    }
+    #wrapper img {
+        border-radius: 200px 200px;
+    }
+    header div a {
+        color:black;
+        font-size:   18spx;
+        line-height: 20px;
+        margin: 0 16px;
+        text-decoration:none;
+    
+    
+    }
